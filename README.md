@@ -5,8 +5,11 @@ It is a chat room authorized application, user has to enter the room name if the
 for using this application on localhost, run this command from the terminal in the application folder
 
 •	npm init
+
 •	npm install express –save
+
 •	npm install socket.io –save
+
 •	npm install moment –save
 
-then go i=in the browser visit localhost:3000
+then go in the browser and visit localhost:3000
